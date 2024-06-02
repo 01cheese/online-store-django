@@ -64,15 +64,7 @@
 - **Shopping Cart:** Add products to your cart and manage them with session integration.
 - **Admin Panel:** Manage users, orders, and products efficiently.
 
-## Contributing
-
-Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact Information
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+- **Email:** [zelenko009@gmail.com](zelenko009@gmail.com)
